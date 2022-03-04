@@ -43,6 +43,10 @@ header p {
   font-style: italic;
 }
 
+article div {
+  padding: 1rem;
+}
+
 article header {
   display: flex;
   justify-content: space-between;
@@ -142,7 +146,7 @@ figcaption {
 }
 
 article footer {
-  background-color: #222;
+  background-color: #259f95;
   background-image: none;
   border-radius: 6px 6px 0 0;
   color: #fff;
